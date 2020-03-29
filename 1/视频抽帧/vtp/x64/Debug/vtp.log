@@ -1,0 +1,3 @@
+﻿  vtp.cpp
+c:\users\86176\desktop\项目一（二版）\vtp\vtp\vtp.cpp(14): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+  vtp.vcxproj -> C:\Users\86176\Desktop\项目一（二版）\vtp\x64\Debug\vtp.exe

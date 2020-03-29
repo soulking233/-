@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "解码", "PythonApplication1\解码.pyproj", "{CC5D1560-B907-4D20-BDC8-547D27DDA7A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5D1560-B907-4D20-BDC8-547D27DDA7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5D1560-B907-4D20-BDC8-547D27DDA7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B249AA-0C34-49E0-98F0-7C0FB8B3B8E9}
+	EndGlobalSection
+EndGlobal
